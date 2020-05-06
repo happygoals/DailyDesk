@@ -2,7 +2,6 @@ import { graphql } from "gatsby"
 import Img from "gatsby-image"
 import React from "react"
 import Layout from "../layouts/Layout"
-import AddPhoto from "../components/AddPhoto"
 import SiteMetadata from "../components/SiteMetadata"
 
 const AboutPage = ({ data }) => (
